@@ -29,4 +29,4 @@
 ## 📄 License
 
 - Code: [MIT](./LICENSE) © [Sherwin P](sherwinp.me)
-- Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+- Data in the `./history` 
