@@ -5,7 +5,15 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 73
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 80,
+    "timeDay": 67,
+    "timeWeek": 82,
+    "timeMonth": 80,
+    "timeYear": 80
   },
   {
     "name": "Wikipedia",
@@ -13,14 +21,30 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 124
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 134,
+    "timeDay": 108,
+    "timeWeek": 158,
+    "timeMonth": 134,
+    "timeYear": 134
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "92.48%",
-    "time": 0
+    "uptime": "91.67%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "68.65%",
+    "uptimeYear": "91.67%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0
   }
 ]
