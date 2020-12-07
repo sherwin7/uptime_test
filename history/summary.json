@@ -2,6 +2,7 @@
   {
     "name": "Google",
     "url": "https://www.google.com",
+    "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -10,14 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 77,
-    "timeDay": 62,
-    "timeWeek": 69,
+    "timeDay": 75,
+    "timeWeek": 71,
     "timeMonth": 77,
-    "timeYear": 77
+    "timeYear": 77,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org",
+    "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
@@ -25,26 +28,45 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 152,
-    "timeWeek": 167,
-    "timeMonth": 141,
-    "timeYear": 141
+    "time": 151,
+    "timeDay": 288,
+    "timeWeek": 176,
+    "timeMonth": 151,
+    "timeYear": 151,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "89.33%",
+    "uptime": "88.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "58.78%",
-    "uptimeYear": "89.33%",
+    "uptimeMonth": "55.49%",
+    "uptimeYear": "88.58%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 0
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2020-12-07": 47,
+      "2020-12-06": 1440,
+      "2020-12-05": 1440,
+      "2020-12-04": 1440,
+      "2020-12-03": 1440,
+      "2020-12-02": 1440,
+      "2020-12-01": 1440,
+      "2020-11-30": 1440,
+      "2020-11-29": 1440,
+      "2020-11-28": 1440,
+      "2020-11-27": 1440,
+      "2020-11-26": 1440,
+      "2020-11-25": 1440,
+      "2020-11-24": 1440,
+      "2020-11-23": 730
+    }
   }
 ]
